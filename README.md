@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mansa Mikail</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently student 
@@ -25,11 +25,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansamikail)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansamikail)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <br/>
