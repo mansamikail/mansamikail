@@ -11,7 +11,8 @@
 ## 🚀 Languages :
 
 <p align="left"> 
-   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
+   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/> </a>
 </p>
 
 <br/>
