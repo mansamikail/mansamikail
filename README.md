@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/mansamikail/mansamikail/blob/main/akatsuki.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Mansa Mikail</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px" hight="5px">, I'm Mansa Mikail</h1>
 <h3 align="center">I'm a learner.</h3>
 
 ## 🙋‍♂️ About Me
