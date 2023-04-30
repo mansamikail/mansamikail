@@ -39,5 +39,5 @@
 <p align="left">
 
 
-<a href = "https://www.instagram.com/mansamikail/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://instagram.com/mansamikail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansamikail" height="30" width="40" /></a>
 
