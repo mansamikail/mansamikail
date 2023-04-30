@@ -1,43 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/mansamikail/mansamikail/blob/main/akatsuki.jpg" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Mansa Mikail</h1>
-<h3 align="center">I'm a learner.</h3>
-
-## 🙋‍♂️ About Me
-
--  🎓 I’m student 
--  📕 learning program
-
-## 🚀 Languages :
-
-<p align="left"> 
-   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ruby-gemstone.png"/> </a>
-</p>
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/mansamikail/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mansa Mikail's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mansamikail&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansamikail&theme=radical&show_icons=true)
-
-<br/>
-<br/>
-
-<a href="https://github.com/mansamikail/github-readme-activity-graph"><img alt="Mansa Mikail's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mansamikail&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
+# 💫 About Me:
+im currently learning code
 
 
-<a href="https://instagram.com/mansamikail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansamikail" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mansamikail) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/mansa_mikail) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mansamikail) 
 
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mansamikail&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mansamikail&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansamikail&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mansamikail&icon=2&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
